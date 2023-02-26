@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! 🫠
 ### 📫 [mailto:me@norling.io](me@norling.io)
 
 <!--
