@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+### 📫 [mailto:me@norling.io](me@norling.io)
 
 <!--
 **salineselin/salineselin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
